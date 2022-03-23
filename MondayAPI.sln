@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MondayAPI", "MondayAPI\MondayAPI.csproj", "{8DE47BEF-F7BE-4EDD-BC9A-1BA278AE174E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE47BEF-F7BE-4EDD-BC9A-1BA278AE174E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE47BEF-F7BE-4EDD-BC9A-1BA278AE174E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE47BEF-F7BE-4EDD-BC9A-1BA278AE174E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE47BEF-F7BE-4EDD-BC9A-1BA278AE174E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED39171A-E935-473E-881F-E8DA913CF921}
+	EndGlobalSection
+EndGlobal
